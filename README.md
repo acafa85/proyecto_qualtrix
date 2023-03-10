@@ -1,4 +1,4 @@
-# proyecto_x
+# proyecto_qualtrix
 ## Pasos para la creacion de un nuevo proyecto:
 
 ```
